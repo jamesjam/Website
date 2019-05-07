@@ -1,7 +1,8 @@
 body{
-  background-image:https://github.com/jamesjam/Website/blob/master/Background.jpg;
+  background-image: url("https://github.com/jamesjam/Website/blob/master/Background.jpg");
 }
 img {
   width: 10%;
   height: auto;
+  position: inherit;
 }
