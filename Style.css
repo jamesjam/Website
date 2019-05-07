@@ -1,7 +1,10 @@
 body{
-  padding: inherit;
+  background-image: https://raw.githubusercontent.com/jamesjam/Website/master/Background.jpg;
 }
 img {
   width: 100%;
   height: auto;
+}
+background {
+
 }
