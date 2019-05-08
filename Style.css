@@ -1,3 +1,7 @@
 body{
   background-image: url("https://github.com/jamesjam/Website/blob/master/Background.jpg?raw=true");
+  font-weight: 600;
+  font-size: 56px;
+  font-family: Arial;
+  text-align: center;
 }
