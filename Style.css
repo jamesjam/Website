@@ -1,12 +1,15 @@
 body{
-  background-image: url("https://github.com/jamesjam/Website/blob/master/Background.jpg?raw=true");
+  background-image: url("https://github.com/jamesjam/Website/blob/master/Website%20content/Website%20images/Background.jpg");
   font-weight: 600;
-  font-size: 56px;
+  font-size: 24px;
   font-family: Arial;
   text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
 }
-.copy{
-  display: copy;
-  grid-template-columns: repeat(auto-fit, 100px);
-  grid-gap: 20px;
+img {
+  position: sticky;
+  max-width: 50%;
+  height: auto;
+  z-index: 1;
 }
