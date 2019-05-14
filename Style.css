@@ -4,12 +4,17 @@ body{
   font-size: 24px;
   font-family: Arial;
   text-align: center;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 img {
-  position: sticky;
+  position: absolute;
+  top: 60px;
+  left: 80px;
   max-width: 50%;
   height: auto;
   z-index: 1;
 }
+#production-imgs{
+  object-fit: scale-down;
+  }
