@@ -17,4 +17,5 @@ img {
 }
 #production-imgs{
   object-fit: scale-down;
+  justify-content: center;
   }
