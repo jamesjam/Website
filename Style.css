@@ -7,15 +7,21 @@ body{
   margin-left: 200px;
   margin-right: 200px;
 }
-img {
-  position: absolute;
-  top: 60px;
-  left: 80px;
-  max-width: 50%;
-  height: auto;
-  z-index: 1;
+.Consort
+    {
+    position: absolute;
+    top: 60px;
+    left: 80px;
+    max-width: 50%;
+    height: auto;
+    z-index: 1;
 }
-#production-imgs{
+.production
+  {
+  position: relative;
+  top:0;
+  left:0;
   object-fit: scale-down;
   justify-content: center;
+  z-index: -1;
   }
