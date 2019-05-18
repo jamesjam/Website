@@ -27,4 +27,5 @@ body{
 .class {
   margin: auto;
   font-stretch: ultra-expanded;
+  font-size: 2em;
 }
