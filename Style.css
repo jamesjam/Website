@@ -7,13 +7,11 @@ body{
     {
 overflow: scroll;
     float: right;
-    width: 30%
 }
 .production
   {
   overflow: scroll;
   float: left;
-  width: 70%;
   }
 .navimage {
   overflow: scroll;
