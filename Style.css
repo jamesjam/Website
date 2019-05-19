@@ -5,14 +5,17 @@ body{
 }
 .Consort
     {
+overflow: hidden;
     float: right;
     width: 30%
 }
 .production
   {
+  overflow: hidden;
   float: left;
   width: 70%;
   }
 .navimage {
+  overflow: hidden;
   width: 100%;
 }
