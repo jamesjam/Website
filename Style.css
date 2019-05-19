@@ -13,8 +13,6 @@ body{
   float: left;
   width: 70%;
   }
-.class {
-  margin: auto;
-  font-stretch: ultra-expanded;
-  font-size: 400px;
+.navimage {
+  width: 100%;
 }
