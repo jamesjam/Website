@@ -1,28 +1,17 @@
 body{
   background-image: url("https://github.com/jamesjam/Website/blob/master/Website%20content/Website%20images/Background.jpg?raw=true");
-  font-weight: 600;
-  font-size: 24px;
   font-family: Arial;
   text-align: center;
-  margin-left: 200px;
-  margin-right: 200px;
 }
 .Consort
     {
-    position: fixed;
-    top: 60px;
-    max-width: 50%;
-    height: auto;
-    z-index: 1;
+    float: right;
+    width: 30%
 }
 .production
   {
-  position: relative;
-  top:0;
-  left:0;
-  object-fit: scale-down;
-  justify-content: center;
-  z-index: -1;
+  float: left;
+  width: 70%;
   }
 .class {
   margin: auto;
