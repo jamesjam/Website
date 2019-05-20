@@ -5,15 +5,15 @@ body{
 }
 .Consort
     {
-overflow: scroll;
     float: right;
+    z-index: auto;
 }
 .production
   {
-  overflow: scroll;
   float: left;
+  z-index: auto;
   }
 .navimage {
-  overflow: scroll;
-  width: 100%;
+    width: 100%;
+    z-index: 1;
 }
