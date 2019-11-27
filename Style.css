@@ -3,7 +3,7 @@ body{
 }
 div {
 font-family: 'Calistoga', cursive;
-font-size: 48px;
+font-size: 24px;
 color: #ffffff;
 width: 50%;
 float: right;
@@ -15,4 +15,6 @@ img{
   width: 50%;
   float: left;
   z-index: 1;
+  padding-top: 500px;
+  padding-bottom: 200px;
 }
