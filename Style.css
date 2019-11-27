@@ -1,6 +1,5 @@
 body{
   background-image: url("https://github.com/jamesjam/Website/blob/master/Website%20content/Website%20images/Background.jpg?raw=true");
-  font-family: Arial;
   text-align: center;
 }
 .Consort
@@ -18,6 +17,7 @@ body{
     width: 100%;
     z-index: 1;
 }
-@font-face {
-src: url(font-family: 'Calistoga', cursive);
+div {
+font-family: 'Calistoga', cursive;
+font-size: 48px;
 }
