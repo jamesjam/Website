@@ -18,7 +18,7 @@ body{
     z-index: 1;
 }
 div {
-margin: 100px, auto, 100px, auto;
+margin: 100px, 1000px, 0px, 0px;
 font-family: 'Calistoga', cursive;
 font-size: 48px;
 }
