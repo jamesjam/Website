@@ -11,3 +11,7 @@ z-index: auto;
 padding-top: 500px;
 padding-bottom: 200px;
 }
+img{
+  width: 50%;
+  float: left;
+}
