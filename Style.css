@@ -1,23 +1,10 @@
 body{
   background-color:#61f2a2;
 }
-.Consort
-    {
-    float: right;
-    z-index: auto;
-}
-.production
-  {
-  float: left;
-  z-index: -1;
-  position: fixed;
-  }
-.navimage {
-    width: 100%;
-    z-index: 1;
-}
 div {
-margin: 100px, 1000px, 0px, 0px;
 font-family: 'Calistoga', cursive;
 font-size: 48px;
+width: 50%;
+float: right;
+z-index: auto;
 }
