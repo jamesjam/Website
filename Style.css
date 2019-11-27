@@ -19,6 +19,5 @@ body{
     z-index: 1;
 }
 @font-face {
-font-family: myFirstFont;
-src: url(sansation_light.woff);
+src: url(font-family: 'Calistoga', cursive);
 }
